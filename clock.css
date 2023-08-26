@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url('photo-1509023464722-18d996393ca8.avif');
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 50px;
+    text-decoration: solid;
+    color: rgb(255, 255, 255);
+}
+
+.container{
+    position: absolute;
+    top : 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table{
+    border-collapse: separate;
+    
+}
+td{
+    padding: 5px;
+    text-align: center;
+}
